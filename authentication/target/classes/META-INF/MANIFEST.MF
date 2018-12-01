@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: teja
+Build-Jdk: 11.0.1
+Implementation-Title: nubee-authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tejio.oj.nubee
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/authentication
+Created-By: Maven Integration for Eclipse
+
